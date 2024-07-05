@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 # daqing's need
 nvidia/cuda:12.5.0-devel-ubuntu22.04
+vllm/vllm-openai:latest
+registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest
