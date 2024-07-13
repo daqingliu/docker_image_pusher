@@ -9,3 +9,5 @@
 nvidia/cuda:12.5.0-devel-ubuntu22.04
 # vllm/vllm-openai:latest
 rockeycoss/spo:v1
+node:lts-slim
+nginx:stable-alpine
