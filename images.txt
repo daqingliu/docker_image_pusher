@@ -7,7 +7,7 @@
 
 # daqing's need
 nvidia/cuda:12.5.0-devel-ubuntu22.04
-# vllm/vllm-openai:latest
 rockeycoss/spo:v1
 node:lts-slim
 nginx:stable-alpine
+nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
